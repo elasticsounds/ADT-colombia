@@ -1,0 +1,12 @@
+@font-face {
+	font-style:normal;
+	font-weight:normal;
+	font-family:"Verdana";
+	src:url(../fonts/Verdana.ttf) format("opentype");
+}
+@font-face {
+	font-style:normal;
+	font-weight:bold;
+	font-family:"Verdana";
+	src:url(../fonts/Verdanab.ttf) format("opentype");
+}

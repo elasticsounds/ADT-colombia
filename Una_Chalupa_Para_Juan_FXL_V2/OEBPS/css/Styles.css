@@ -1,0 +1,338 @@
+.PageContainer {
+	overflow:hidden;
+	background-color:#FFFFFF;
+}
+a.color1
+{
+        text-decoration: none;
+        color: black;
+        padding: 0em .1em 0em .1em; 
+        background-color: #F8FF87;
+        border: .05em solid black;
+}
+
+.s0 {
+	white-space:pre;
+	position:absolute;
+	display:inline-block;
+}
+.s1 {
+	border:0;
+	margin:0;
+	white-space:pre;
+	position:absolute;
+	display:block;
+}
+.trn_link {
+	background-image:url('data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+	position:absolute;
+}
+.l1 { line-height:1.00; }
+.l3 { line-height:1.02; }
+.l2 { line-height:1.03; }
+.l0 { line-height:1.64; }
+.l4 { line-height:1.65; }
+.fs2 { font-size:576.00px; }
+.fs3 { font-size:640.00px; }
+.fs0 { font-size:928.00px; }
+.fs0a { font-size:1500.00px; }
+.fs1 { font-size:1000.00px; }
+.t3 {
+	-webkit-transform:scale(1.216000);
+	-o-transform:scale(1.216000);
+	-ms-transform:scale(1.216000);
+	-moz-transform:scale(1.216000);
+	transform:scale(1.216000);
+}
+.t4 {
+	-webkit-transform:scale(1.248000);
+	-o-transform:scale(1.248000);
+	-ms-transform:scale(1.248000);
+	-moz-transform:scale(1.248000);
+	transform:scale(1.248000);
+}
+.t2 {
+	-webkit-transform:scale(1.280000);
+	-o-transform:scale(1.280000);
+	-ms-transform:scale(1.280000);
+	-moz-transform:scale(1.280000);
+	transform:scale(1.280000);
+}
+.t1 {
+	-webkit-transform:scale(1.408000);
+	-o-transform:scale(1.408000);
+	-ms-transform:scale(1.408000);
+	-moz-transform:scale(1.408000);
+	transform:scale(1.408000);
+}
+.t0 {
+	-webkit-transform:scale(2.944000);
+	-o-transform:scale(2.944000);
+	-ms-transform:scale(2.944000);
+	-moz-transform:scale(2.944000);
+	transform:scale(2.944000);
+}
+.o0 {
+	-webkit-transform-origin:0.00% 100.00%;
+	-o-transform-origin:0.00% 100.00%;
+	-ms-transform-origin:0.00% 100.00%;
+	-moz-transform-origin:0.00% 100.00%;
+	transform-origin:0.00% 100.00%;
+}
+.f6 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f18 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f14 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f4 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f17 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f16 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f22 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f19 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f9 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f23 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f13 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f11 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f15 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f8 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f21 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f7 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f3 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f5 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f10 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f12 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f20 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f1 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+.f1a {
+	font-weight:bold;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f2 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.f0 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Verdana";
+}
+
+.-epub-media-overlay-active
+{
+	color: red;
+}
+audio
+{
+        position:absolute;
+        top: -350px;
+        display:none;
+}
+.sl-trigger1 {
+	cursor: pointer;
+	position: absolute;
+}
+.sl-glossary {
+	cursor: pointer;
+	position: absolute;
+}
+.sl-book {
+	cursor: pointer;
+	position: absolute;
+}
+.sl-trigger {
+	cursor: pointer;
+	position: absolute;
+}
+
+.sl-video-container {
+	display: none;
+	position: absolute;
+}
+
+.sl-video-container.is-maximized {
+	transform: translateX(-50%) scale(1.5) !important;
+	transform-origin: bottom;
+}
+
+.sl-video {
+	display: none;
+}
+
+.vjs-control-bar {
+	display: none !important;
+}
+
+.vjs-big-play-button {
+	display: none !important;
+}
+
+.vjs-loading-spinner .vjs-control-text {
+	display: none !important;
+}
+
+.vjs-text-track-display {
+	bottom: 10px !important;
+}
+
+.vjs-text-track-cue > * {
+	background-color: rgba(0, 0, 0, 0.8) !important;
+	font-size: 1.4em;
+}
+.para {
+	position:absolute;
+        font-size: 20px;
+        line-height: 32px !important;
+        text-align: left !important;
+        font-family:"Verdana";
+        color:rgb(64,64,65);    
+        
+}
+.para1 {
+	position:absolute;
+        font-size: 20px;
+        line-height: 32px !important;
+        text-align: left !important;
+        font-family:"Verdana";
+        color:white;    
+
+}
+.para3 {
+	position:absolute;
+        font-size: 20px;
+        line-height: 34px !important;
+        text-align: left !important;
+}
+.para1a {
+	position:absolute;
+        font-size: 23px;
+        line-height: 45px !important;
+        text-align: left !important;
+}
+.sl-trigger1b {
+	cursor: pointer;
+	position: absolute;
+	display:none;
+	z-index:2;
+}
+.sl-book1 {
+	cursor: pointer;
+	position: absolute;
+	z-index:2;
+}
+.sl-trigger-b {
+	cursor: pointer;
+	position: absolute;
+	display:none;
+        z-index:2;
+}
