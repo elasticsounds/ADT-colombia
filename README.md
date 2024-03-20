@@ -1,8 +1,8 @@
-# ADT Dominican Republic
+# ADT Colombia
 
 ## Description
 
-This is the repository for the ADT (accessible digital textbooks) project in the Dominican Republic. The folder contains 2 ePubs (both compressed and in folder form). The ePubs were developed by Book Fusion designed to work with Book Fusion's platform, although they can also be run in an ePub reader like Thorium.
+This is the repository for the ADT (accessible digital textbooks) project in the Colombia. The folder contains 2 ePubs (both compressed and in folder form). The ePubs were developed by Book Fusion designed to work with Book Fusion's platform, although they can also be run in an ePub reader like Thorium.
 
 ## Getting Started
 
@@ -20,10 +20,10 @@ You need a desktop computer, tablet or mobile device with a web browser like goo
 
 ### Steps
 
-1. Navigate to [https://www.bookfusion.com/libraries/MOEYI](https://www.bookfusion.com/libraries/MINERD)
+1. Navigate to https://www.bookfusion.com/libraries/mineducacion.
 2. Choose a book to play. The ADTs have a green label that says 'interactive'.
-   - For "La capa del Emperador" go to [https://www.bookfusion.com/books/2592584-harriet-hen-and-the-hawk-unicef](https://www.bookfusion.com/books/3966731-la-capa-del-emperador)
-   - For "La Yuca" go to [https://www.bookfusion.com/books/2592566-my-brain-is-my-boss-unicef](https://www.bookfusion.com/books/3865843-la-yuca-adaptacion-del-cuento-el-nabo)
+   - For "Una Chalupa Para Juan" go to https://www.bookfusion.com/books/4104523-una-chalupa-para-juan 
+   - For "Helena y una carta para su papá" go to https://www.bookfusion.com/books/3860806-helena-y-una-carta-para-su-papa
 
 You may also use the iOS app to view the book. The iOS app offers offline functionality.
 [https://apps.apple.com/us/app/bookfusion/id1141834096](https://apps.apple.com/us/app/bookfusion/id1141834096) 
