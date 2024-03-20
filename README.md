@@ -30,7 +30,7 @@ You may also use the iOS app to view the book. The iOS app offers offline functi
 
 1. Download the app.
 2. Create an account.
-3. Navigate to the [https://www.bookfusion.com/libraries/MOEYI](https://www.bookfusion.com/libraries/MINERD) page.
+3. Navigate to the https://www.bookfusion.com/libraries/mineducacion page.
 
 ## Play ePubs offline on desktop with Thorium
 
