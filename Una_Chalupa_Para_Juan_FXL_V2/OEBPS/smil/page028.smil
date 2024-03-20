@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page028.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:00.200" clipEnd="0:00:00.560"/>
+</par>
+<par id="id2">
+<text src="../page028.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:00.560" clipEnd="0:00:01.550"/>
+</par>
+<par id="id3">
+<text src="../page028.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:01.550" clipEnd="0:00:02.300"/>
+</par>
+<par id="id4">
+<text src="../page028.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:02.300" clipEnd="0:00:02.660"/>
+</par>
+<par id="id5">
+<text src="../page028.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:02.660" clipEnd="0:00:02.990"/>
+</par>
+<par id="id6">
+<text src="../page028.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:02.990" clipEnd="0:00:03.470"/>
+</par>
+<par id="id7">
+<text src="../page028.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:03.470" clipEnd="0:00:03.740"/>
+</par>
+<par id="id8">
+<text src="../page028.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:03.740" clipEnd="0:00:04.220"/>
+</par>
+<par id="id9">
+<text src="../page028.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:04.220" clipEnd="0:00:04.370"/>
+</par>
+<par id="id10">
+<text src="../page028.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:04.370" clipEnd="0:00:04.730"/>
+</par>
+<par id="id11">
+<text src="../page028.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:04.730" clipEnd="0:00:04.880"/>
+</par>
+<par id="id12">
+<text src="../page028.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:04.880" clipEnd="0:00:05.030"/>
+</par>
+<par id="id13">
+<text src="../page028.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A9_BUEN_VIENTO.mp3" clipBegin="0:00:05.030" clipEnd="0:00:05.368"/>
+</par>
+</body>
+</smil>

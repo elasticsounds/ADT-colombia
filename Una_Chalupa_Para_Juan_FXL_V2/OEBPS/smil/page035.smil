@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page035.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:00.110" clipEnd="0:00:00.530"/>
+</par>
+<par id="id2">
+<text src="../page035.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:00.530" clipEnd="0:00:01.130"/>
+</par>
+<par id="id3">
+<text src="../page035.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:01.130" clipEnd="0:00:01.490"/>
+</par>
+<par id="id4">
+<text src="../page035.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:01.490" clipEnd="0:00:01.640"/>
+</par>
+<par id="id5">
+<text src="../page035.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:01.640" clipEnd="0:00:01.880"/>
+</par>
+<par id="id6">
+<text src="../page035.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:01.880" clipEnd="0:00:02.030"/>
+</par>
+<par id="id7">
+<text src="../page035.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:02.030" clipEnd="0:00:02.570"/>
+</par>
+<par id="id8">
+<text src="../page035.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:02.570" clipEnd="0:00:02.900"/>
+</par>
+<par id="id9">
+<text src="../page035.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:02.900" clipEnd="0:00:03.290"/>
+</par>
+<par id="id10">
+<text src="../page035.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:03.290" clipEnd="0:00:03.440"/>
+</par>
+<par id="id11">
+<text src="../page035.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:03.440" clipEnd="0:00:04.100"/>
+</par>
+<par id="id12">
+<text src="../page035.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:04.100" clipEnd="0:00:04.520"/>
+</par>
+<par id="id13">
+<text src="../page035.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:04.520" clipEnd="0:00:04.820"/>
+</par>
+<par id="id14">
+<text src="../page035.xhtml#word14"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:04.820" clipEnd="0:00:05.630"/>
+</par>
+<par id="id15">
+<text src="../page035.xhtml#word15"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:05.630" clipEnd="0:00:06.260"/>
+</par>
+<par id="id16">
+<text src="../page035.xhtml#word16"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:06.260" clipEnd="0:00:06.470"/>
+</par>
+<par id="id17">
+<text src="../page035.xhtml#word17"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:06.470" clipEnd="0:00:07.220"/>
+</par>
+<par id="id18">
+<text src="../page035.xhtml#word18"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:07.220" clipEnd="0:00:07.490"/>
+</par>
+<par id="id19">
+<text src="../page035.xhtml#word19"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:07.490" clipEnd="0:00:07.970"/>
+</par>
+<par id="id20">
+<text src="../page035.xhtml#word20"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:07.970" clipEnd="0:00:08.840"/>
+</par>
+<par id="id21">
+<text src="../page035.xhtml#word21"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:08.840" clipEnd="0:00:09.620"/>
+</par>
+<par id="id22">
+<text src="../page035.xhtml#word22"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:09.620" clipEnd="0:00:09.770"/>
+</par>
+<par id="id23">
+<text src="../page035.xhtml#word23"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:09.770" clipEnd="0:00:10.070"/>
+</par>
+<par id="id24">
+<text src="../page035.xhtml#word24"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:10.070" clipEnd="0:00:10.430"/>
+</par>
+<par id="id25">
+<text src="../page035.xhtml#word25"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:10.430" clipEnd="0:00:10.670"/>
+</par>
+<par id="id26">
+<text src="../page035.xhtml#word26"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:10.670" clipEnd="0:00:10.910"/>
+</par>
+<par id="id27">
+<text src="../page035.xhtml#word27"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A16_SER_VIVO.mp3" clipBegin="0:00:10.910" clipEnd="0:00:11.365"/>
+</par>
+</body>
+</smil>

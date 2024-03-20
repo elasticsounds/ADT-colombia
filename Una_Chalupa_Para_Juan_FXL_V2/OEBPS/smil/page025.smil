@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page025.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:00.080" clipEnd="0:00:01.160"/>
+</par>
+<par id="id2">
+<text src="../page025.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:01.160" clipEnd="0:00:01.520"/>
+</par>
+<par id="id3">
+<text src="../page025.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:01.520" clipEnd="0:00:01.670"/>
+</par>
+<par id="id4">
+<text src="../page025.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:01.670" clipEnd="0:00:02.060"/>
+</par>
+<par id="id5">
+<text src="../page025.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:02.060" clipEnd="0:00:02.180"/>
+</par>
+<par id="id6">
+<text src="../page025.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:02.180" clipEnd="0:00:02.540"/>
+</par>
+<par id="id7">
+<text src="../page025.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:02.540" clipEnd="0:00:03.260"/>
+</par>
+<par id="id8">
+<text src="../page025.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:03.260" clipEnd="0:00:03.980"/>
+</par>
+<par id="id9">
+<text src="../page025.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:03.980" clipEnd="0:00:04.760"/>
+</par>
+<par id="id10">
+<text src="../page025.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:04.760" clipEnd="0:00:05.420"/>
+</par>
+<par id="id11">
+<text src="../page025.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:05.420" clipEnd="0:00:06.350"/>
+</par>
+<par id="id12">
+<text src="../page025.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:06.350" clipEnd="0:00:06.770"/>
+</par>
+<par id="id13">
+<text src="../page025.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:06.770" clipEnd="0:00:07.340"/>
+</par>
+<par id="id14">
+<text src="../page025.xhtml#word14"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:07.340" clipEnd="0:00:07.700"/>
+</par>
+<par id="id15">
+<text src="../page025.xhtml#word15"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:07.700" clipEnd="0:00:08.120"/>
+</par>
+<par id="id16">
+<text src="../page025.xhtml#word16"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:08.120" clipEnd="0:00:08.300"/>
+</par>
+<par id="id17">
+<text src="../page025.xhtml#word17"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:08.300" clipEnd="0:00:08.780"/>
+</par>
+<par id="id18">
+<text src="../page025.xhtml#word18"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:08.780" clipEnd="0:00:08.960"/>
+</par>
+<par id="id19">
+<text src="../page025.xhtml#word19"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:08.960" clipEnd="0:00:09.350"/>
+</par>
+<par id="id20">
+<text src="../page025.xhtml#word20"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:09.350" clipEnd="0:00:09.560"/>
+</par>
+<par id="id21">
+<text src="../page025.xhtml#word21"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:09.560" clipEnd="0:00:09.920"/>
+</par>
+<par id="id22">
+<text src="../page025.xhtml#word22"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:09.920" clipEnd="0:00:10.100"/>
+</par>
+<par id="id23">
+<text src="../page025.xhtml#word23"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A6_SELVA.mp3" clipBegin="0:00:10.100" clipEnd="0:00:10.893"/>
+</par>
+</body>
+</smil>

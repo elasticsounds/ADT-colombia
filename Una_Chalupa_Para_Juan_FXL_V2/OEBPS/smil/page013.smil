@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page013.xhtml#word1"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:00.470" clipEnd="0:00:00.770"/>
+</par>
+<par id="id2">
+<text src="../page013.xhtml#word2"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:00.770" clipEnd="0:00:01.160"/>
+</par>
+<par id="id3">
+<text src="../page013.xhtml#word3"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:01.160" clipEnd="0:00:01.430"/>
+</par>
+<par id="id4">
+<text src="../page013.xhtml#word4"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:01.430" clipEnd="0:00:01.700"/>
+</par>
+<par id="id5">
+<text src="../page013.xhtml#word5"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:01.700" clipEnd="0:00:02.090"/>
+</par>
+<par id="id6">
+<text src="../page013.xhtml#word6"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:02.090" clipEnd="0:00:02.300"/>
+</par>
+<par id="id7">
+<text src="../page013.xhtml#word7"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:02.300" clipEnd="0:00:02.780"/>
+</par>
+<par id="id8">
+<text src="../page013.xhtml#word8"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:02.780" clipEnd="0:00:03.020"/>
+</par>
+<par id="id9">
+<text src="../page013.xhtml#word9"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:03.020" clipEnd="0:00:03.140"/>
+</par>
+<par id="id10">
+<text src="../page013.xhtml#word10"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:03.140" clipEnd="0:00:03.440"/>
+</par>
+<par id="id11">
+<text src="../page013.xhtml#word11"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:03.440" clipEnd="0:00:03.560"/>
+</par>
+<par id="id12">
+<text src="../page013.xhtml#word12"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:03.560" clipEnd="0:00:03.950"/>
+</par>
+<par id="id13">
+<text src="../page013.xhtml#word13"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:03.950" clipEnd="0:00:04.190"/>
+</par>
+<par id="id14">
+<text src="../page013.xhtml#word14"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:04.190" clipEnd="0:00:04.940"/>
+</par>
+<par id="id15">
+<text src="../page013.xhtml#word15"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:04.940" clipEnd="0:00:05.330"/>
+</par>
+<par id="id16">
+<text src="../page013.xhtml#word16"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:05.330" clipEnd="0:00:06.050"/>
+</par>
+<par id="id17">
+<text src="../page013.xhtml#word17"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:06.050" clipEnd="0:00:06.200"/>
+</par>
+<par id="id18">
+<text src="../page013.xhtml#word18"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:06.200" clipEnd="0:00:06.380"/>
+</par>
+<par id="id19">
+<text src="../page013.xhtml#word19"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:06.380" clipEnd="0:00:06.980"/>
+</par>
+<par id="id20">
+<text src="../page013.xhtml#word20"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:06.980" clipEnd="0:00:07.190"/>
+</par>
+<par id="id21">
+<text src="../page013.xhtml#word21"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:07.190" clipEnd="0:00:07.970"/>
+</par>
+<par id="id22">
+<text src="../page013.xhtml#word22"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:07.970" clipEnd="0:00:09.440"/>
+</par>
+<par id="id23">
+<text src="../page013.xhtml#word23"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:09.440" clipEnd="0:00:09.680"/>
+</par>
+<par id="id24">
+<text src="../page013.xhtml#word24"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:09.680" clipEnd="0:00:09.950"/>
+</par>
+<par id="id25">
+<text src="../page013.xhtml#word25"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:09.950" clipEnd="0:00:10.250"/>
+</par>
+<par id="id26">
+<text src="../page013.xhtml#word26"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:10.250" clipEnd="0:00:10.730"/>
+</par>
+<par id="id27">
+<text src="../page013.xhtml#word27"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:10.730" clipEnd="0:00:11.150"/>
+</par>
+<par id="id28">
+<text src="../page013.xhtml#word28"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:11.150" clipEnd="0:00:11.300"/>
+</par>
+<par id="id29">
+<text src="../page013.xhtml#word29"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:11.300" clipEnd="0:00:11.720"/>
+</par>
+<par id="id30">
+<text src="../page013.xhtml#word30"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:11.720" clipEnd="0:00:11.810"/>
+</par>
+<par id="id31">
+<text src="../page013.xhtml#word31"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:11.810" clipEnd="0:00:11.930"/>
+</par>
+<par id="id32">
+<text src="../page013.xhtml#word32"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:11.930" clipEnd="0:00:13.070"/>
+</par>
+<par id="id33">
+<text src="../page013.xhtml#word33"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:13.070" clipEnd="0:00:13.340"/>
+</par>
+<par id="id34">
+<text src="../page013.xhtml#word34"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:13.340" clipEnd="0:00:13.520"/>
+</par>
+<par id="id35">
+<text src="../page013.xhtml#word35"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:13.520" clipEnd="0:00:14.120"/>
+</par>
+<par id="id36">
+<text src="../page013.xhtml#word36"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:14.120" clipEnd="0:00:14.720"/>
+</par>
+<par id="id37">
+<text src="../page013.xhtml#word37"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:14.720" clipEnd="0:00:15.260"/>
+</par>
+<par id="id38">
+<text src="../page013.xhtml#word38"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:15.260" clipEnd="0:00:15.620"/>
+</par>
+<par id="id39">
+<text src="../page013.xhtml#word39"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:15.620" clipEnd="0:00:15.740"/>
+</par>
+<par id="id40">
+<text src="../page013.xhtml#word40"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:15.740" clipEnd="0:00:15.950"/>
+</par>
+<par id="id41">
+<text src="../page013.xhtml#word41"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:15.950" clipEnd="0:00:16.790"/>
+</par>
+<par id="id42">
+<text src="../page013.xhtml#word42"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:16.790" clipEnd="0:00:17.120"/>
+</par>
+<par id="id43">
+<text src="../page013.xhtml#word43"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:17.120" clipEnd="0:00:17.840"/>
+</par>
+<par id="id44">
+<text src="../page013.xhtml#word44"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:17.840" clipEnd="0:00:18.230"/>
+</par>
+<par id="id45">
+<text src="../page013.xhtml#word45"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:18.230" clipEnd="0:00:18.680"/>
+</par>
+<par id="id46">
+<text src="../page013.xhtml#word46"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:18.680" clipEnd="0:00:18.950"/>
+</par>
+<par id="id47">
+<text src="../page013.xhtml#word47"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:18.950" clipEnd="0:00:19.160"/>
+</par>
+<par id="id48">
+<text src="../page013.xhtml#word48"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo17.mp3" clipBegin="0:00:19.160" clipEnd="0:00:21.000"/>
+</par>
+</body>
+</smil>

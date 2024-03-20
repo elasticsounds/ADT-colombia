@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page024.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:00.140" clipEnd="0:00:01.100"/>
+</par>
+<par id="id2">
+<text src="../page024.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:01.100" clipEnd="0:00:01.580"/>
+</par>
+<par id="id3">
+<text src="../page024.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:01.580" clipEnd="0:00:01.700"/>
+</par>
+<par id="id4">
+<text src="../page024.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:01.700" clipEnd="0:00:02.180"/>
+</par>
+<par id="id5">
+<text src="../page024.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:02.180" clipEnd="0:00:02.300"/>
+</par>
+<par id="id6">
+<text src="../page024.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:02.300" clipEnd="0:00:02.750"/>
+</par>
+<par id="id7">
+<text src="../page024.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:02.750" clipEnd="0:00:03.260"/>
+</par>
+<par id="id8">
+<text src="../page024.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:03.260" clipEnd="0:00:03.410"/>
+</par>
+<par id="id9">
+<text src="../page024.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:03.410" clipEnd="0:00:03.560"/>
+</par>
+<par id="id10">
+<text src="../page024.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:03.560" clipEnd="0:00:04.010"/>
+</par>
+<par id="id11">
+<text src="../page024.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:04.010" clipEnd="0:00:04.190"/>
+</par>
+<par id="id12">
+<text src="../page024.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:04.190" clipEnd="0:00:04.340"/>
+</par>
+<par id="id13">
+<text src="../page024.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:04.340" clipEnd="0:00:04.970"/>
+</par>
+<par id="id14">
+<text src="../page024.xhtml#word14"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:04.970" clipEnd="0:00:05.660"/>
+</par>
+<par id="id15">
+<text src="../page024.xhtml#word15"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:05.660" clipEnd="0:00:05.810"/>
+</par>
+<par id="id16">
+<text src="../page024.xhtml#word16"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:05.810" clipEnd="0:00:06.440"/>
+</par>
+<par id="id17">
+<text src="../page024.xhtml#word17"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:06.440" clipEnd="0:00:06.650"/>
+</par>
+<par id="id18">
+<text src="../page024.xhtml#word18"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:06.650" clipEnd="0:00:06.800"/>
+</par>
+<par id="id19">
+<text src="../page024.xhtml#word19"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:06.800" clipEnd="0:00:07.250"/>
+</par>
+<par id="id20">
+<text src="../page024.xhtml#word20"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:07.250" clipEnd="0:00:07.550"/>
+</par>
+<par id="id21">
+<text src="../page024.xhtml#word21"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A5_COMUNIDAD.mp3" clipBegin="0:00:07.550" clipEnd="0:00:07.939"/>
+</par>
+</body>
+</smil>

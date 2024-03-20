@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page034.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:00.080" clipEnd="0:00:00.800"/>
+</par>
+<par id="id2">
+<text src="../page034.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:00.800" clipEnd="0:00:01.100"/>
+</par>
+<par id="id3">
+<text src="../page034.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:01.100" clipEnd="0:00:01.340"/>
+</par>
+<par id="id4">
+<text src="../page034.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:01.340" clipEnd="0:00:01.910"/>
+</par>
+<par id="id5">
+<text src="../page034.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:01.910" clipEnd="0:00:02.180"/>
+</par>
+<par id="id6">
+<text src="../page034.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:02.180" clipEnd="0:00:02.600"/>
+</par>
+<par id="id7">
+<text src="../page034.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:02.600" clipEnd="0:00:03.470"/>
+</par>
+<par id="id8">
+<text src="../page034.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:03.470" clipEnd="0:00:03.650"/>
+</par>
+<par id="id9">
+<text src="../page034.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:03.650" clipEnd="0:00:03.980"/>
+</par>
+<par id="id10">
+<text src="../page034.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:03.980" clipEnd="0:00:04.460"/>
+</par>
+<par id="id11">
+<text src="../page034.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:04.460" clipEnd="0:00:04.910"/>
+</par>
+<par id="id12">
+<text src="../page034.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:04.910" clipEnd="0:00:05.090"/>
+</par>
+<par id="id13">
+<text src="../page034.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:05.090" clipEnd="0:00:05.360"/>
+</par>
+<par id="id14">
+<text src="../page034.xhtml#word14"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:05.360" clipEnd="0:00:05.630"/>
+</par>
+<par id="id15">
+<text src="../page034.xhtml#word15"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:05.630" clipEnd="0:00:06.110"/>
+</par>
+<par id="id16">
+<text src="../page034.xhtml#word16"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:06.110" clipEnd="0:00:06.740"/>
+</par>
+<par id="id17">
+<text src="../page034.xhtml#word17"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:06.740" clipEnd="0:00:06.860"/>
+</par>
+<par id="id18">
+<text src="../page034.xhtml#word18"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:06.860" clipEnd="0:00:06.980"/>
+</par>
+<par id="id19">
+<text src="../page034.xhtml#word19"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A15_SABIO.mp3" clipBegin="0:00:06.980" clipEnd="0:00:07.690"/>
+</par>
+</body>
+</smil>

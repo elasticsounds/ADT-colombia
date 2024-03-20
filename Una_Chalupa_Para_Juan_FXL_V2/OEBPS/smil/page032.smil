@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page032.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:00.140" clipEnd="0:00:01.220"/>
+</par>
+<par id="id2">
+<text src="../page032.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:01.220" clipEnd="0:00:01.610"/>
+</par>
+<par id="id3">
+<text src="../page032.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:01.610" clipEnd="0:00:02.420"/>
+</par>
+<par id="id4">
+<text src="../page032.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:02.420" clipEnd="0:00:02.570"/>
+</par>
+<par id="id5">
+<text src="../page032.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:02.570" clipEnd="0:00:03.230"/>
+</par>
+<par id="id6">
+<text src="../page032.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:03.230" clipEnd="0:00:03.440"/>
+</par>
+<par id="id7">
+<text src="../page032.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:03.440" clipEnd="0:00:04.070"/>
+</par>
+<par id="id8">
+<text src="../page032.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:04.070" clipEnd="0:00:04.880"/>
+</par>
+<par id="id9">
+<text src="../page032.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:04.880" clipEnd="0:00:05.390"/>
+</par>
+<par id="id10">
+<text src="../page032.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:05.390" clipEnd="0:00:05.750"/>
+</par>
+<par id="id11">
+<text src="../page032.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:05.750" clipEnd="0:00:06.140"/>
+</par>
+<par id="id12">
+<text src="../page032.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:06.140" clipEnd="0:00:06.620"/>
+</par>
+<par id="id13">
+<text src="../page032.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:06.620" clipEnd="0:00:06.770"/>
+</par>
+<par id="id14">
+<text src="../page032.xhtml#word14"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:06.770" clipEnd="0:00:07.580"/>
+</par>
+<par id="id15">
+<text src="../page032.xhtml#word15"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:07.580" clipEnd="0:00:08.360"/>
+</par>
+<par id="id16">
+<text src="../page032.xhtml#word16"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:08.360" clipEnd="0:00:08.570"/>
+</par>
+<par id="id17">
+<text src="../page032.xhtml#word17"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:08.570" clipEnd="0:00:08.960"/>
+</par>
+<par id="id18">
+<text src="../page032.xhtml#word18"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A13_HABILIDADES.mp3" clipBegin="0:00:08.960" clipEnd="0:00:09.539"/>
+</par>
+</body>
+</smil>

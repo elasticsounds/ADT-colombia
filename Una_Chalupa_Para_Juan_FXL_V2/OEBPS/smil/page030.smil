@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page030.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A11_VEGETACION_.mp3" clipBegin="0:00:00.140" clipEnd="0:00:01.100"/>
+</par>
+<par id="id2">
+<text src="../page030.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A11_VEGETACION_.mp3" clipBegin="0:00:01.100" clipEnd="0:00:01.640"/>
+</par>
+<par id="id3">
+<text src="../page030.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A11_VEGETACION_.mp3" clipBegin="0:00:01.640" clipEnd="0:00:02.090"/>
+</par>
+<par id="id4">
+<text src="../page030.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A11_VEGETACION_.mp3" clipBegin="0:00:02.090" clipEnd="0:00:02.240"/>
+</par>
+<par id="id5">
+<text src="../page030.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A11_VEGETACION_.mp3" clipBegin="0:00:02.240" clipEnd="0:00:02.450"/>
+</par>
+<par id="id6">
+<text src="../page030.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A11_VEGETACION_.mp3" clipBegin="0:00:02.450" clipEnd="0:00:02.930"/>
+</par>
+</body>
+</smil>

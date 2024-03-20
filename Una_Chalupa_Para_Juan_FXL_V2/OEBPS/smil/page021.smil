@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page021.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:00.080" clipEnd="0:00:00.830"/>
+</par>
+<par id="id2">
+<text src="../page021.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:00.830" clipEnd="0:00:01.670"/>
+</par>
+<par id="id3">
+<text src="../page021.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:01.670" clipEnd="0:00:01.850"/>
+</par>
+<par id="id4">
+<text src="../page021.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:01.850" clipEnd="0:00:02.180"/>
+</par>
+<par id="id5">
+<text src="../page021.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:02.180" clipEnd="0:00:02.510"/>
+</par>
+<par id="id6">
+<text src="../page021.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:02.510" clipEnd="0:00:02.630"/>
+</par>
+<par id="id7">
+<text src="../page021.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:02.630" clipEnd="0:00:03.200"/>
+</par>
+<par id="id8">
+<text src="../page021.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:03.200" clipEnd="0:00:03.440"/>
+</par>
+<par id="id9">
+<text src="../page021.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:03.440" clipEnd="0:00:03.830"/>
+</par>
+<par id="id10">
+<text src="../page021.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:03.830" clipEnd="0:00:03.920"/>
+</par>
+<par id="id11">
+<text src="../page021.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:03.920" clipEnd="0:00:04.430"/>
+</par>
+<par id="id12">
+<text src="../page021.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:04.430" clipEnd="0:00:04.520"/>
+</par>
+<par id="id13">
+<text src="../page021.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A2_LIVIANA.mp3" clipBegin="0:00:04.520" clipEnd="0:00:04.987"/>
+</par>
+</body>
+</smil>

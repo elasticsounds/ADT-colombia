@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page026.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:00.170" clipEnd="0:00:00.710"/>
+</par>
+<par id="id2">
+<text src="../page026.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:00.710" clipEnd="0:00:01.550"/>
+</par>
+<par id="id3">
+<text src="../page026.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:01.550" clipEnd="0:00:01.850"/>
+</par>
+<par id="id4">
+<text src="../page026.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:01.850" clipEnd="0:00:02.270"/>
+</par>
+<par id="id5">
+<text src="../page026.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:02.270" clipEnd="0:00:02.870"/>
+</par>
+<par id="id6">
+<text src="../page026.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:02.870" clipEnd="0:00:03.230"/>
+</par>
+<par id="id7">
+<text src="../page026.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:03.230" clipEnd="0:00:03.620"/>
+</par>
+<par id="id8">
+<text src="../page026.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:03.620" clipEnd="0:00:03.740"/>
+</par>
+<par id="id9">
+<text src="../page026.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:03.740" clipEnd="0:00:04.400"/>
+</par>
+<par id="id10">
+<text src="../page026.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:04.400" clipEnd="0:00:05.180"/>
+</par>
+<par id="id11">
+<text src="../page026.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:05.180" clipEnd="0:00:05.360"/>
+</par>
+<par id="id12">
+<text src="../page026.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:05.360" clipEnd="0:00:05.720"/>
+</par>
+<par id="id13">
+<text src="../page026.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:05.720" clipEnd="0:00:05.870"/>
+</par>
+<par id="id14">
+<text src="../page026.xhtml#word14"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:05.870" clipEnd="0:00:06.650"/>
+</par>
+<par id="id15">
+<text src="../page026.xhtml#word15"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:06.650" clipEnd="0:00:07.190"/>
+</par>
+<par id="id16">
+<text src="../page026.xhtml#word16"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:07.190" clipEnd="0:00:07.460"/>
+</par>
+<par id="id17">
+<text src="../page026.xhtml#word17"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:07.460" clipEnd="0:00:07.610"/>
+</par>
+<par id="id18">
+<text src="../page026.xhtml#word18"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A7_PLANTAS_SAGRADAS.mp3" clipBegin="0:00:07.610" clipEnd="0:00:08.353"/>
+</par>
+</body>
+</smil>

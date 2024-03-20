@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page045.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:00.110" clipEnd="0:00:00.830"/>
+</par>
+<par id="id2">
+<text src="../page045.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:00.830" clipEnd="0:00:00.980"/>
+</par>
+<par id="id3">
+<text src="../page045.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:00.980" clipEnd="0:00:01.160"/>
+</par>
+<par id="id4">
+<text src="../page045.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:01.160" clipEnd="0:00:01.940"/>
+</par>
+<par id="id5">
+<text src="../page045.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:01.940" clipEnd="0:00:02.300"/>
+</par>
+<par id="id6">
+<text src="../page045.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:02.300" clipEnd="0:00:02.480"/>
+</par>
+<par id="id7">
+<text src="../page045.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:02.480" clipEnd="0:00:02.870"/>
+</par>
+<par id="id8">
+<text src="../page045.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:02.870" clipEnd="0:00:03.170"/>
+</par>
+<par id="id9">
+<text src="../page045.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:03.170" clipEnd="0:00:03.380"/>
+</par>
+<par id="id10">
+<text src="../page045.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:03.380" clipEnd="0:00:03.980"/>
+</par>
+<par id="id11">
+<text src="../page045.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:03.980" clipEnd="0:00:04.100"/>
+</par>
+<par id="id12">
+<text src="../page045.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:04.100" clipEnd="0:00:04.730"/>
+</par>
+<par id="id13">
+<text src="../page045.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:04.730" clipEnd="0:00:05.000"/>
+</par>
+<par id="id14">
+<text src="../page045.xhtml#word14"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:05.000" clipEnd="0:00:05.300"/>
+</par>
+<par id="id15">
+<text src="../page045.xhtml#word15"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:05.300" clipEnd="0:00:05.810"/>
+</par>
+<par id="id16">
+<text src="../page045.xhtml#word16"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A26_LENGUAJE_DE_LOS_DELFINES.mp3" clipBegin="0:00:05.810" clipEnd="0:00:08.270"/>
+</par>
+</body>
+</smil>

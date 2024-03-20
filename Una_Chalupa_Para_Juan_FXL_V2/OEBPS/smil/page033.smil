@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page033.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:00.140" clipEnd="0:00:01.250"/>
+</par>
+<par id="id2">
+<text src="../page033.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:01.250" clipEnd="0:00:01.550"/>
+</par>
+<par id="id3">
+<text src="../page033.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:01.550" clipEnd="0:00:01.910"/>
+</par>
+<par id="id4">
+<text src="../page033.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:01.910" clipEnd="0:00:02.090"/>
+</par>
+<par id="id5">
+<text src="../page033.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:02.090" clipEnd="0:00:02.480"/>
+</par>
+<par id="id6">
+<text src="../page033.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:02.480" clipEnd="0:00:03.170"/>
+</par>
+<par id="id7">
+<text src="../page033.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:03.170" clipEnd="0:00:03.380"/>
+</par>
+<par id="id8">
+<text src="../page033.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:03.380" clipEnd="0:00:03.710"/>
+</par>
+<par id="id9">
+<text src="../page033.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:03.710" clipEnd="0:00:04.010"/>
+</par>
+<par id="id10">
+<text src="../page033.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:04.010" clipEnd="0:00:04.220"/>
+</par>
+<par id="id11">
+<text src="../page033.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:04.220" clipEnd="0:00:04.850"/>
+</par>
+<par id="id12">
+<text src="../page033.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:04.850" clipEnd="0:00:05.000"/>
+</par>
+<par id="id13">
+<text src="../page033.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:05.000" clipEnd="0:00:05.150"/>
+</par>
+<par id="id14">
+<text src="../page033.xhtml#word14"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:05.150" clipEnd="0:00:05.360"/>
+</par>
+<par id="id15">
+<text src="../page033.xhtml#word15"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:05.360" clipEnd="0:00:05.600"/>
+</par>
+<par id="id16">
+<text src="../page033.xhtml#word16"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:05.600" clipEnd="0:00:06.320"/>
+</par>
+<par id="id17">
+<text src="../page033.xhtml#word17"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:06.320" clipEnd="0:00:06.440"/>
+</par>
+<par id="id18">
+<text src="../page033.xhtml#word18"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:06.440" clipEnd="0:00:07.160"/>
+</par>
+<par id="id19">
+<text src="../page033.xhtml#word19"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A14_INTUITIVO.mp3" clipBegin="0:00:07.160" clipEnd="0:00:08.166"/>
+</par>
+</body>
+</smil>

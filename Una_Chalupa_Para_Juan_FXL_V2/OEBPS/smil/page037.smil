@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page037.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A18_SAGRADO.mp3" clipBegin="0:00:00.140" clipEnd="0:00:01.130"/>
+</par>
+<par id="id2">
+<text src="../page037.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A18_SAGRADO.mp3" clipBegin="0:00:01.130" clipEnd="0:00:01.580"/>
+</par>
+<par id="id3">
+<text src="../page037.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A18_SAGRADO.mp3" clipBegin="0:00:01.580" clipEnd="0:00:01.880"/>
+</par>
+<par id="id4">
+<text src="../page037.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A18_SAGRADO.mp3" clipBegin="0:00:01.880" clipEnd="0:00:02.030"/>
+</par>
+<par id="id5">
+<text src="../page037.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A18_SAGRADO.mp3" clipBegin="0:00:02.030" clipEnd="0:00:02.510"/>
+</par>
+<par id="id6">
+<text src="../page037.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A18_SAGRADO.mp3" clipBegin="0:00:02.510" clipEnd="0:00:02.990"/>
+</par>
+<par id="id7">
+<text src="../page037.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A18_SAGRADO.mp3" clipBegin="0:00:02.990" clipEnd="0:00:03.590"/>
+</par>
+<par id="id8">
+<text src="../page037.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A18_SAGRADO.mp3" clipBegin="0:00:03.590" clipEnd="0:00:03.710"/>
+</par>
+<par id="id9">
+<text src="../page037.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A18_SAGRADO.mp3" clipBegin="0:00:03.710" clipEnd="0:00:04.310"/>
+</par>
+<par id="id10">
+<text src="../page037.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A18_SAGRADO.mp3" clipBegin="0:00:04.310" clipEnd="0:00:04.700"/>
+</par>
+<par id="id11">
+<text src="../page037.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A18_SAGRADO.mp3" clipBegin="0:00:04.700" clipEnd="0:00:04.820"/>
+</par>
+<par id="id12">
+<text src="../page037.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A18_SAGRADO.mp3" clipBegin="0:00:04.820" clipEnd="0:00:05.225"/>
+</par>
+</body>
+</smil>

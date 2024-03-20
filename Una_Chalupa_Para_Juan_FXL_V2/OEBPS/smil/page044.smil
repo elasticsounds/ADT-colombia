@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page044.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:00.110" clipEnd="0:00:01.040"/>
+</par>
+<par id="id2">
+<text src="../page044.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:01.040" clipEnd="0:00:02.270"/>
+</par>
+<par id="id3">
+<text src="../page044.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:02.270" clipEnd="0:00:02.600"/>
+</par>
+<par id="id4">
+<text src="../page044.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:02.600" clipEnd="0:00:02.720"/>
+</par>
+<par id="id5">
+<text src="../page044.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:02.720" clipEnd="0:00:03.020"/>
+</par>
+<par id="id6">
+<text src="../page044.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:03.020" clipEnd="0:00:03.170"/>
+</par>
+<par id="id7">
+<text src="../page044.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:03.170" clipEnd="0:00:03.740"/>
+</par>
+<par id="id8">
+<text src="../page044.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:03.740" clipEnd="0:00:03.890"/>
+</par>
+<par id="id9">
+<text src="../page044.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:03.890" clipEnd="0:00:04.250"/>
+</par>
+<par id="id10">
+<text src="../page044.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:04.250" clipEnd="0:00:04.670"/>
+</par>
+<par id="id11">
+<text src="../page044.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:04.670" clipEnd="0:00:05.180"/>
+</par>
+<par id="id12">
+<text src="../page044.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:05.180" clipEnd="0:00:05.570"/>
+</par>
+<par id="id13">
+<text src="../page044.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:05.570" clipEnd="0:00:05.990"/>
+</par>
+<par id="id14">
+<text src="../page044.xhtml#word14"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:05.990" clipEnd="0:00:06.230"/>
+</par>
+<par id="id15">
+<text src="../page044.xhtml#word15"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:06.230" clipEnd="0:00:06.470"/>
+</par>
+<par id="id16">
+<text src="../page044.xhtml#word16"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:06.470" clipEnd="0:00:06.830"/>
+</par>
+<par id="id17">
+<text src="../page044.xhtml#word17"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:06.830" clipEnd="0:00:07.280"/>
+</par>
+<par id="id18">
+<text src="../page044.xhtml#word18"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:07.280" clipEnd="0:00:07.670"/>
+</par>
+<par id="id19">
+<text src="../page044.xhtml#word19"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:07.670" clipEnd="0:00:07.760"/>
+</par>
+<par id="id20">
+<text src="../page044.xhtml#word20"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:07.760" clipEnd="0:00:08.330"/>
+</par>
+<par id="id21">
+<text src="../page044.xhtml#word21"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:08.330" clipEnd="0:00:08.420"/>
+</par>
+<par id="id22">
+<text src="../page044.xhtml#word22"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:08.420" clipEnd="0:00:08.630"/>
+</par>
+<par id="id23">
+<text src="../page044.xhtml#word23"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:08.630" clipEnd="0:00:09.260"/>
+</par>
+<par id="id24">
+<text src="../page044.xhtml#word24"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:09.260" clipEnd="0:00:09.470"/>
+</par>
+<par id="id25">
+<text src="../page044.xhtml#word25"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:09.470" clipEnd="0:00:09.740"/>
+</par>
+<par id="id26">
+<text src="../page044.xhtml#word26"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:09.740" clipEnd="0:00:10.310"/>
+</par>
+<par id="id27">
+<text src="../page044.xhtml#word27"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:10.310" clipEnd="0:00:10.430"/>
+</par>
+<par id="id28">
+<text src="../page044.xhtml#word28"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:10.430" clipEnd="0:00:10.880"/>
+</par>
+<par id="id29">
+<text src="../page044.xhtml#word29"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:10.880" clipEnd="0:00:11.120"/>
+</par>
+<par id="id30">
+<text src="../page044.xhtml#word30"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:11.120" clipEnd="0:00:11.690"/>
+</par>
+<par id="id31">
+<text src="../page044.xhtml#word31"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:11.690" clipEnd="0:00:11.990"/>
+</par>
+<par id="id32">
+<text src="../page044.xhtml#word32"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:11.990" clipEnd="0:00:12.170"/>
+</par>
+<par id="id33">
+<text src="../page044.xhtml#word33"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:12.170" clipEnd="0:00:12.530"/>
+</par>
+<par id="id34">
+<text src="../page044.xhtml#word34"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A25_SERPIENTE_VENENOSA.mp3" clipBegin="0:00:12.530" clipEnd="0:00:13.215"/>
+</par>
+</body>
+</smil>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page046.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:00.110" clipEnd="0:00:01.370"/>
+</par>
+<par id="id2">
+<text src="../page046.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:01.370" clipEnd="0:00:01.880"/>
+</par>
+<par id="id3">
+<text src="../page046.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:01.880" clipEnd="0:00:02.360"/>
+</par>
+<par id="id4">
+<text src="../page046.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:02.360" clipEnd="0:00:02.480"/>
+</par>
+<par id="id5">
+<text src="../page046.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:02.480" clipEnd="0:00:02.630"/>
+</par>
+<par id="id6">
+<text src="../page046.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:02.630" clipEnd="0:00:03.170"/>
+</par>
+<par id="id7">
+<text src="../page046.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:03.170" clipEnd="0:00:03.320"/>
+</par>
+<par id="id8">
+<text src="../page046.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:03.320" clipEnd="0:00:03.470"/>
+</par>
+<par id="id9">
+<text src="../page046.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:03.470" clipEnd="0:00:03.800"/>
+</par>
+<par id="id10">
+<text src="../page046.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:03.800" clipEnd="0:00:03.920"/>
+</par>
+<par id="id11">
+<text src="../page046.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:03.920" clipEnd="0:00:04.190"/>
+</par>
+<par id="id12">
+<text src="../page046.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:04.190" clipEnd="0:00:04.670"/>
+</par>
+<par id="id13">
+<text src="../page046.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_27_MAMIFEROS.mp3" clipBegin="0:00:04.670" clipEnd="0:00:05.265"/>
+</par>
+</body>
+</smil>

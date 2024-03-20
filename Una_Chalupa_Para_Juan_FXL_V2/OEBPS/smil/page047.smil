@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page047.xhtml#word1"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo22.mp3" clipBegin="0:00:00.000" clipEnd="0:02:53.200"/>
+</par>
+<par id="id2">
+<text src="../page047.xhtml#word2"/>
+<audio src="../audio/UNICEF_L3_PISTA-AUDIO_Diapo24.mp3" clipBegin="0:00:00.000" clipEnd="0:00:09.950"/>
+</par>
+</body>
+</smil>

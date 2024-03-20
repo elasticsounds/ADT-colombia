@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page036.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:00.170" clipEnd="0:00:01.220"/>
+</par>
+<par id="id2">
+<text src="../page036.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:01.220" clipEnd="0:00:02.030"/>
+</par>
+<par id="id3">
+<text src="../page036.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:02.030" clipEnd="0:00:02.660"/>
+</par>
+<par id="id4">
+<text src="../page036.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:02.660" clipEnd="0:00:02.780"/>
+</par>
+<par id="id5">
+<text src="../page036.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:02.780" clipEnd="0:00:03.170"/>
+</par>
+<par id="id6">
+<text src="../page036.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:03.170" clipEnd="0:00:03.320"/>
+</par>
+<par id="id7">
+<text src="../page036.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:03.320" clipEnd="0:00:03.800"/>
+</par>
+<par id="id8">
+<text src="../page036.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:03.800" clipEnd="0:00:04.130"/>
+</par>
+<par id="id9">
+<text src="../page036.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:04.130" clipEnd="0:00:04.520"/>
+</par>
+<par id="id10">
+<text src="../page036.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:04.520" clipEnd="0:00:04.640"/>
+</par>
+<par id="id11">
+<text src="../page036.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:04.640" clipEnd="0:00:04.790"/>
+</par>
+<par id="id12">
+<text src="../page036.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:04.790" clipEnd="0:00:05.240"/>
+</par>
+<par id="id13">
+<text src="../page036.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:05.240" clipEnd="0:00:05.510"/>
+</par>
+<par id="id14">
+<text src="../page036.xhtml#word14"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:05.510" clipEnd="0:00:05.840"/>
+</par>
+<par id="id15">
+<text src="../page036.xhtml#word15"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:05.840" clipEnd="0:00:06.020"/>
+</par>
+<par id="id16">
+<text src="../page036.xhtml#word16"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:06.020" clipEnd="0:00:06.320"/>
+</par>
+<par id="id17">
+<text src="../page036.xhtml#word17"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:06.320" clipEnd="0:00:06.530"/>
+</par>
+<par id="id18">
+<text src="../page036.xhtml#word18"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:06.530" clipEnd="0:00:07.070"/>
+</par>
+<par id="id19">
+<text src="../page036.xhtml#word19"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:07.070" clipEnd="0:00:07.460"/>
+</par>
+<par id="id20">
+<text src="../page036.xhtml#word20"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:07.460" clipEnd="0:00:07.610"/>
+</par>
+<par id="id21">
+<text src="../page036.xhtml#word21"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A17_CONTAMINAR.mp3" clipBegin="0:00:07.610" clipEnd="0:00:08.128"/>
+</par>
+</body>
+</smil>

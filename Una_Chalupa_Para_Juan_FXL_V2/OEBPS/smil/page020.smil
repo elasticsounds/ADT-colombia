@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page020.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:00.050" clipEnd="0:00:00.770"/>
+</par>
+<par id="id2">
+<text src="../page020.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:00.770" clipEnd="0:00:01.100"/>
+</par>
+<par id="id3">
+<text src="../page020.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:01.100" clipEnd="0:00:01.250"/>
+</par>
+<par id="id4">
+<text src="../page020.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:01.250" clipEnd="0:00:01.580"/>
+</par>
+<par id="id5">
+<text src="../page020.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:01.580" clipEnd="0:00:02.120"/>
+</par>
+<par id="id6">
+<text src="../page020.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:02.120" clipEnd="0:00:02.390"/>
+</par>
+<par id="id7">
+<text src="../page020.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:02.390" clipEnd="0:00:02.570"/>
+</par>
+<par id="id8">
+<text src="../page020.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:02.570" clipEnd="0:00:02.870"/>
+</par>
+<par id="id9">
+<text src="../page020.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:02.870" clipEnd="0:00:03.170"/>
+</par>
+<par id="id10">
+<text src="../page020.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:03.170" clipEnd="0:00:04.100"/>
+</par>
+<par id="id11">
+<text src="../page020.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:04.100" clipEnd="0:00:04.190"/>
+</par>
+<par id="id12">
+<text src="../page020.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:04.190" clipEnd="0:00:04.310"/>
+</par>
+<par id="id13">
+<text src="../page020.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A1_CHALUPA.mp3" clipBegin="0:00:04.310" clipEnd="0:00:04.668"/>
+</par>
+</body>
+</smil>

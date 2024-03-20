@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1">
+<text src="../page042.xhtml#word1"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:00.170" clipEnd="0:00:01.370"/>
+</par>
+<par id="id2">
+<text src="../page042.xhtml#word2"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:01.370" clipEnd="0:00:01.790"/>
+</par>
+<par id="id3">
+<text src="../page042.xhtml#word3"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:01.790" clipEnd="0:00:02.000"/>
+</par>
+<par id="id4">
+<text src="../page042.xhtml#word4"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:02.000" clipEnd="0:00:02.540"/>
+</par>
+<par id="id5">
+<text src="../page042.xhtml#word5"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:02.540" clipEnd="0:00:02.630"/>
+</par>
+<par id="id6">
+<text src="../page042.xhtml#word6"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:02.630" clipEnd="0:00:02.750"/>
+</par>
+<par id="id7">
+<text src="../page042.xhtml#word7"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:02.750" clipEnd="0:00:03.260"/>
+</par>
+<par id="id8">
+<text src="../page042.xhtml#word8"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:03.260" clipEnd="0:00:03.350"/>
+</par>
+<par id="id9">
+<text src="../page042.xhtml#word9"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:03.350" clipEnd="0:00:03.500"/>
+</par>
+<par id="id10">
+<text src="../page042.xhtml#word10"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:03.500" clipEnd="0:00:04.070"/>
+</par>
+<par id="id11">
+<text src="../page042.xhtml#word11"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:04.070" clipEnd="0:00:04.190"/>
+</par>
+<par id="id12">
+<text src="../page042.xhtml#word12"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:04.190" clipEnd="0:00:04.760"/>
+</par>
+<par id="id13">
+<text src="../page042.xhtml#word13"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:04.760" clipEnd="0:00:05.180"/>
+</par>
+<par id="id14">
+<text src="../page042.xhtml#word14"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:05.180" clipEnd="0:00:05.300"/>
+</par>
+<par id="id15">
+<text src="../page042.xhtml#word15"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:05.300" clipEnd="0:00:05.930"/>
+</par>
+<par id="id16">
+<text src="../page042.xhtml#word16"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:05.930" clipEnd="0:00:06.260"/>
+</par>
+<par id="id17">
+<text src="../page042.xhtml#word17"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:06.260" clipEnd="0:00:06.710"/>
+</par>
+<par id="id18">
+<text src="../page042.xhtml#word18"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:06.710" clipEnd="0:00:07.490"/>
+</par>
+<par id="id19">
+<text src="../page042.xhtml#word19"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:07.490" clipEnd="0:00:07.730"/>
+</par>
+<par id="id20">
+<text src="../page042.xhtml#word20"/>
+<audio src="../audio/Glossary/UNICEF_L3_GLO_A23_ANTEPASADOS.mp3" clipBegin="0:00:07.730" clipEnd="0:00:08.640"/>
+</par>
+</body>
+</smil>
